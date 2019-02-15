@@ -1,6 +1,6 @@
 {
   "name": "html-build",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility script to build HTML documents - Appends scripts and styles, removes debug parts, append HTML partials, template options, etc.",
   "author": "SPA Tools",
   "license": "MIT",

@@ -18,11 +18,9 @@ Add your build script to your `package.json` `scripts`:
 
 ```json
 {
-    //...
     "scripts": {
         "build-html": "html-build -c config.js index.html samples/"
     }
-    //...
 }
 ```
 
